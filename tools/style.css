@@ -53,6 +53,10 @@ height: 280px;
 position: relative;
 }
 
+.logo_image{
+  margin-top: 75px;
+}
+
 h1{
 padding: 12px 70px 12px 20px;
 position: absolute;
